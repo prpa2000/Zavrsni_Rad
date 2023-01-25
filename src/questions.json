@@ -1,0 +1,115 @@
+[
+    {
+        "question": "Koji tip podatka predstavlja cjelobrojni tip?",
+        "optionA": "float",
+        "optionB": "double",
+        "optionC": "int",
+        "optionD": "char",
+        "answer": "int"
+    },
+
+    {
+        "question": "Koji operator nazivamo mod?",
+        "optionA": "/",
+        "optionB": "%",
+        "optionC": "+",
+        "optionD": "*",
+        "answer": "%"
+    },
+
+    {
+        "question": "Pomoću koje naredbe postavljamo određene uvjete?",
+        "optionA": "if",
+        "optionB": "else",
+        "optionC": "for",
+        "optionD": "while",
+        "answer": "if"
+    },
+
+    {
+        "question": "Koje od navedenih nije programska petlja?",
+        "optionA": "while",
+        "optionB": "for",
+        "optionC": "do-while",
+        "optionD": "do-for",
+        "answer": "do-for"
+    },
+
+    {
+        "question": "Odaberite točan izraz.",
+        "optionA": "int a:10;",
+        "optionB": "a:10",
+        "optionC": "int a=10;",
+        "optionD": "a=10",
+        "answer": "int a=10;"
+    },
+
+   
+
+    {
+        "question": "U programskom jeziku C, koja je naredba za ispis ?",
+        "optionA": "printf",
+        "optionB": "cout",
+        "optionC": "write",
+        "optionD": "scanf",
+        "answer": "printf"
+    },
+
+    {
+        "question": "U programskom jeziku C, koja je naredba za unos?",
+        "optionA": "read",
+        "optionB": "write",
+        "optionC": "scanf",
+        "optionD": "scan",
+        "answer": "scanf"
+    },
+
+    {
+        "question": "Koji tip podatka koristimo za niz znakova?",
+        "optionA": "text",
+        "optionB": "boolean",
+        "optionC": "string",
+        "optionD": "long",
+        "answer": "string"
+    },
+
+    {
+        "question": "Koliko funkcija mora minimalno sadržavati svaki program?",
+        "optionA": "Nula",
+        "optionB": "Jednu",
+        "optionC": "Dvije",
+        "optionD": "Ništa od navedenog",
+        "answer": "Jednu"
+    },
+
+    {
+        "question": "Koji operator ne pripada relacijskim operatorima?",
+        "optionA": " >",
+        "optionB": "<",
+        "optionC": "!=",
+        "optionD": "| |",
+        "answer": "| |"
+    },
+
+    
+
+   
+
+    {
+        "question": "Za koju naredbu vežemo naredbu else?",
+        "optionA": "if",
+        "optionB": "for",
+        "optionC": "while",
+        "optionD": "main",
+        "answer": "if"
+    },
+
+    {
+        "question": "Koje od navedenih odgovara strukturi while petlje?",
+        "optionA": "while { ... }",
+        "optionB": "while ( ... )",
+        "optionC": "while { ... } ( ... )",
+        "optionD": "while ( ... ) { ... }",
+        "answer": "while ( ... ) { ... }"
+    }
+]

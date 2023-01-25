@@ -1,0 +1,67 @@
+.h1summary{
+    color: black;
+    text-align: center;
+
+}
+.h4summary{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.h2summary{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.container{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    background-color: rgb(179, 153, 153);
+    padding: 50px;
+    border-radius: 20px;
+    
+    
+}
+
+.stat{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.statt{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sectionsummary{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    
+    
+}
+
+.lisummary{
+    background-color: rgb(158, 158, 3);
+    color:white;
+    cursor: pointer;
+    padding: 1rem;
+    display: block;
+    text-align: center;
+    border-radius:30px ;
+    margin-top:170px;
+    font-size: 20px;
+    transition: 0.3s linear all;
+    text-decoration: none;
+   
+}
+
+.lisummary:hover{
+    background-color:rgb(65, 77, 3) ;
+}

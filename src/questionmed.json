@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Od koliko dijelova se sastoji for petlja?",
+       
+        "optionA": "dva",
+        "optionB": "tri",
+        "optionC": "četiri",
+        "optionD": "pet",
+        "answer": "tri"
+    },
+    {
+        "question": "Odaberite točnu inicijalizaciju polja od 100 elemenata.",
+       
+        "optionA": "int a{100};",
+        "optionB": "int a=100;",
+        "optionC": "int a(100);",
+        "optionD": "int a[100];",
+        "answer": "int a[100];"
+    },
+    {
+        "question": "Koji je indeks 7. broja u polju?",
+       
+        "optionA": "6",
+        "optionB": "7",
+        "optionC": "Ovisi o broju elemanata",
+        "optionD": "Nijedno od navedenog",
+        "answer": "6"
+    },
+    {
+        "question": "Što svaka funkcija mora imati?",
+       
+        "optionA": "return",
+        "optionB": "argumente",
+        "optionC": "petlje",
+        "optionD": "uvjete",
+        "answer": "return"
+    },
+    {
+        "question": "Kako označavamo pokazivače?",
+       
+        "optionA": ">",
+        "optionB": "<",
+        "optionC": "*",
+        "optionD": "$",
+        "answer":"*"
+    },
+    {
+        "question": "Odaberite točnu inicijalizaciju cjelobrojne matrice 3x3.",
+       
+        "optionA": "int M[3x3];",
+        "optionB": "int M[3*3];",
+        "optionC": "int M[3,3];",
+        "optionD": "int M[3][3];",
+        "answer": "int M[3][3];"
+    },
+    {
+        "question": "Unutar scanf-a, oznaka koja oznacava cjelobrojni tip podatka je?",
+       
+        "optionA": "i",
+        "optionB": "d",
+        "optionC": "int",
+        "optionD": "f",
+        "answer": "d"
+    }
+]

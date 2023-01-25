@@ -1,0 +1,53 @@
+.instructions{
+    border: 1px solid darken(#f8f8f8,10%);
+    border-radius: 5px;
+    margin-top:3rem;
+    margin-bottom: 3rem;
+    padding: 1.5rem 3rem;
+
+}
+
+.h1inst{
+    color:black;
+    font-size:2rem;
+    text-align: center;
+}
+
+.browser-default{
+    padding-left: 30px;
+    margin-top:10px;
+    margin-bottom: 70px;
+    font-size: 20px;
+    
+}
+
+.instruction-button{
+    background-color: rgb(9, 102, 243);
+    color:white;
+    cursor: pointer;
+    padding: 1rem;
+    display: block;
+    text-align: center;
+    border-radius:30px ;
+    margin-top:20px;
+    font-size: 20px;
+    transition: 0.3s linear all;
+    text-decoration: none;
+   
+}
+
+.instruction-button:hover{
+    background-color: rgb(5, 64, 151);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.tohomefrominstr{
+   color: white;
+   text-decoration: none;
+   padding: 10px;
+   background-color: rgb(58, 128, 1);
+   border-radius: 20px;
+   
+}

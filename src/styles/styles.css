@@ -1,0 +1,8 @@
+@import './components/Home.css';
+@import './base/base.css';
+@import './components/Auth.css';
+@import './components/QuizInstructions.css';
+@import './components/Play.css';
+@import './components/QuizSummary.css';
+@import './components//DifficultyLevels.css';
+@import './components/HighPlay.css';

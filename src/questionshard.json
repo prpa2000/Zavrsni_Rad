@@ -1,0 +1,26 @@
+[
+    {
+        "question": " Što fali u sljedećem kodu: for(int i=0; i<10; ? )",
+        "answer":"i++"
+    },
+
+    {
+        "question": "Nadopuni kod: if( ? ) printf('Broj a je veći od broja b');",
+        "answer":"a>b"
+    },
+    {
+        "question":"Napišite liniju koda koja će postaviti vrijednost varijable a u 5.",
+        "answer":"int a=5;"
+    },
+    {
+        "question":"Postavite vrijednost nove varijable ime u Ivan.",
+        "answer":"string ime='Ivan';"
+
+    },
+    {
+        "question":"Izračunajte vrijednost varijable s danu sljedećim kodom ako je ono početno 0 (nula): for(int i=1;i<=10;i++) if(i%2==0) s=s+i;  " ,
+        "answer":"s=30;"
+        
+    }
+
+]
